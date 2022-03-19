@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Luan
 #### I am a student of Statistics and Data Science at the Federal University of Ceará (UFC).
-![I am a student of Statistics and Data Science at the Federal University of Ceará (UFC).](https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Camille_0.jpg)
+![I am a student of Statistics and Data Science at the Federal University of Ceará (UFC).](https://cdnb.artstation.com/p/assets/images/images/030/724/839/original/francis-tneh-psy-ops-viktor-step-by-francistneh.gif?1601465297)
 
 I'm a student results-oriented that is eager to learn new concepts and thus apply to real life.
 
