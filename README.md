@@ -1,6 +1,7 @@
 
 ![a](https://cdnb.artstation.com/p/assets/images/images/030/724/839/original/francis-tneh-psy-ops-viktor-step-by-francistneh.gif?1601465297)
 
+![Meu Projeto](Outliers.png)
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-sousa/)
