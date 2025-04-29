@@ -1,5 +1,5 @@
 
-(https://cdnb.artstation.com/p/assets/images/images/030/724/839/original/francis-tneh-psy-ops-viktor-step-by-francistneh.gif?1601465297)
+![a](https://cdnb.artstation.com/p/assets/images/images/030/724/839/original/francis-tneh-psy-ops-viktor-step-by-francistneh.gif?1601465297)
 
 
 
