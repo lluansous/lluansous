@@ -9,3 +9,5 @@
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lluansous&layout=compact&theme=radical"/>
 </p>
+
+![lluansous's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lluansous&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
