@@ -11,6 +11,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lluansous)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lluansous&show_icons=true&theme=radical"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lluansous&layout=compact&theme=radical"/>
 </p>
